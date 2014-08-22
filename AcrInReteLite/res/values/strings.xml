@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">AcrInRete</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="title_activity_main_screen">AcrInRete Lite</string>
+    <string name="defaultString">Ciao</string>
+    <string name="loading">Caricamento In Corso&#8230;</string>
+    <string name="belvedere">Belvedere</string>
+    <string name="acri_notte">Acri Di Notte</string>
+    <string name="panorama">Panorama</string>
+    <string name="contatti_via">Via Giovanni Amendola, n° 204</string>
+    <string name="contatti_indirizzo">87041 ACRI (Cosenza)</string>
+	<string name="menu_comune">Comune</string>
+	<string name="menu_foto">Fotogallery</string>
+	<string name="menu_meteo">Meteo</string>
+	<string name="menu_contatti">Contatti</string>
+	<string name="menu_news">News</string>
+	<string name="menu_primo">Primo Piano</string>
+	<string name="menu_menu">Menu</string>
+	<string name="realizzato">Realizzato da:</string>
+	<string name="accelerometro">"Accelerometro: "</string>
+	<string name="menu_reload">Aggiorna</string>
+	<string name="bannerLoading">Caricamento banner in corso&#8230;</string>
+</resources>
